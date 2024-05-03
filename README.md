@@ -2,4 +2,5 @@
 
 <h2>Sobre</h2>
 
-<p>Projeto React: desenvolvido com Javascrpt ...</p>
+<p>Projeto React: desenvolvido com Javascrpt. Trabalhando com as funcionalidades dos componentes.</p>
+
